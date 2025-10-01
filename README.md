@@ -13,6 +13,7 @@ Build a small React app where a user can:
 2. **Add/remove sessions** to a personal **Schedule** (shared state).  
 3. **Register** with a simple **form + validation**, and show a confirmation from the API.  
 
+You're completely free to use the style you prefer.
 You can see an example on how it could looks on this link: https://68dcffe5683caab0190f57ff--guileless-truffle-7eae5c.netlify.app/
 
 ---
