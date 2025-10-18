@@ -134,3 +134,10 @@ npm run dev
     - What you’d improve with more time
     - Any libraries you used (and why)
 
+
+
+
+---
+TODO
+
+  - Pass card to an independent component
