@@ -1,6 +1,7 @@
 import './index.css'
 import Search from './components/Search'
 import MySchedule from './components/MySchedule'
+import Register from './components/Register'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Search />
       <MySchedule />
+      <Register />
     </>
   )
 }
