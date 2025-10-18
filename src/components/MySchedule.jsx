@@ -20,11 +20,13 @@ export default function MySchedule() {
 
   return (
     <div className="bg-white border rounded-2xl border-gray-300 shadow-sm p-4 flex flex-col gap-4">
-      <div className="flex flex-col justify-between">
-        <h2 className="text-lg font-semibold">My Schedule</h2>
-        <p className="mt-1 text-sm text-slate-600" aria-live="polite">
-          You have {count} session{count === 1 ? "" : "s"} scheduled.
-        </p>
+      <div className="flex flex-row justify-between">
+        <div className="flex flex-col justify-between">
+          <h2 className="text-lg font-semibold">My Schedule</h2>
+          <p className="mt-1 text-sm text-slate-600" aria-live="polite">
+            You have {count} session{count === 1 ? "" : "s"} scheduled.
+          </p>
+        </div>
 
         {count > 1 && (
           <button
