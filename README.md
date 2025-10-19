@@ -26,10 +26,11 @@ npm install
 
 # Start the development server
 npm run dev
+````
 
---- 
+---
 
-🧩 Implementation Overview
+## 🧩 Implementation Overview
 
 Search Page
   - Allows users to search sessions by title, track, or speaker.
@@ -51,9 +52,8 @@ Shared State
 Navigation Header
   - Provides quick access between sections and dynamically shows the number of sessions.
 
----
 
-🛠 TODO / Improvements
+## 🛠 TODO / Improvements
 
 Refactor session cards into reusable components.
   - The “Session” and “Scheduled Session” layouts share similar structure.
@@ -74,11 +74,12 @@ Accessibility.
 Responsive polish.
   - Adjust spacing and typography for smaller viewports.
 
-
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Lluís Martínez
-Frontend & Full Stack Developer
-GitHub: github.com/lluismn
+- Lluís Martínez
+- Frontend & Full Stack Developer
+- GitHub: github.com/lluismn
+
+
